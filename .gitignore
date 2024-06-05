@@ -1,0 +1,4 @@
+**/target
+**/.git
+!/.
+rust/guessing_game/.git
